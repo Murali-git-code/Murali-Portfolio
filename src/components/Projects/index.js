@@ -13,7 +13,7 @@ class Projects extends Component {
         
           <ul className='projects'>
             <li className='project-cards'>
-              <img src={'/shopping-img.jpeg'} width="600px" height="280px" alt='shopping' />
+              <img src='/Murali-Portfolio/shopping-img.jpeg' width="600px" height="280px" alt='shopping' />
               <div className='content-card'>
                 <h1 className='head'>Nxt Trendz ECommerce Clone</h1>
                 <p className='para'>Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where
@@ -39,7 +39,7 @@ class Projects extends Component {
                 </button>
             </li>
             <li className='project-cards'>
-              <img src={'/jobby-app.jpg'} width="600px" height="280px" alt='shopping'/>
+              <img src="/Murali-Portfolio/jobby-app.jpg" width="600px" height="280px" alt='Jobby app'/>
               <div className='content-card'>
                 <h1 className='head'>Jobby App</h1>
                 <p className='para'>Jobby App is a job search application with login, job listings, and filter features.
@@ -67,7 +67,7 @@ class Projects extends Component {
                 </button>
             </li>
             <li className='project-cards'>
-              <img src={'/todo-app.jpg'} width="600px" height="280px" alt='shopping' />
+              <img src={'/Murali-Portfolio/todo-app.jpg'} width="600px" height="280px" alt='shopping' />
               <div className='content-card'>
                 <h1 className='head'>Todos Application</h1>
                 <p className='para'>ToDo Application is a simple yet powerful task manager to organize daily activities.
@@ -94,7 +94,7 @@ class Projects extends Component {
                 </button>
             </li>
             <li className='project-cards'>
-              <img src={'/ipl-img.jpg'} width="600px" height="280px" alt='shopping'/>
+              <img src={'/Murali-Portfolio/ipl-img.jpg'} width="600px" height="280px" alt='shopping'/>
               <div className='content-card'>
                 <h1 className='head'>IPL Dashboard</h1>
                 <p className='para'>IPL Dashboard is a dynamic web application that showcases data from the Indian Premier League.
