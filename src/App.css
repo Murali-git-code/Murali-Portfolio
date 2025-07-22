@@ -1,0 +1,59 @@
+/* src/App.css */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+ 
+  background-color: #0d0d0d;
+  color: #fff;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background: #111;
+  position: sticky;
+  top: 0;
+}
+
+.nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #00bfff;
+}
+
+.nav a:hover {
+  color: #fff;
+}
+
+.home {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.home h1 {
+  font-size: 4rem;
+  color: #00bfff;
+}
+
+.home p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.btn {
+  padding: 12px 24px;
+  margin: 20px 10px;
+  background-color: #00bfff;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn.dark {
+  background-color: #222;
+  border: 1px solid #00bfff;
+}

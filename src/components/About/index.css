@@ -1,0 +1,64 @@
+.about {
+  padding: 80px 20px;
+background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  height: 100vh;
+  text-align: center;
+}
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.about-container{
+    background: radial-gradient(circle at center, #0d1b2a, #000000);
+    height: 53vh;
+    width: 25vw;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1{
+    text-align: start;
+    padding: 10px;
+}
+.para{
+    color: white;
+    margin: 10px;
+    text-align: start;
+    font-size: 16px;
+}
+.thank-you{
+    color: rgb(170, 164, 164);
+    text-align: start;
+}
+.list-container{
+    display: flex;
+    flex-direction: row;
+}
+.page{
+    list-style-type:none ;
+    background: radial-gradient(circle at center, #0d1b2a, #1f1e1e);
+    margin: 10px;
+    height: 18vh;
+    width: 20vw;
+    border-radius: 10px;
+    
+}
+span{
+    color: rgb(35, 139, 180);
+}
+.second-list{
+    display: flex;
+    flex-direction: row;
+}
+.iam{
+    color: skyblue;
+    font-size: 20px;
+}
+.matter{
+    font-size: 15px;
+}
+li{
+    color: rgb(170, 164, 164);
+}

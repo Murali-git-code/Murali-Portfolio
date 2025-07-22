@@ -1,0 +1,47 @@
+.skills-container {
+  padding: 80px 20px;
+background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+
+  min-height: 100vh;
+  
+}
+.card-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.heading{
+  color: #ffffff ;
+  font-size: 40px;
+}
+
+.skills{
+  background: linear-gradient(to right, #0f2027);
+  height: 280px;
+  width: 300px;
+  border-radius: 20px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 10px;
+  padding: 20px;
+}
+.icons0{
+  margin-top: 5px;
+  margin: 13px;
+}
+.frontend{
+  background-color: rgb(17, 17, 17);
+  max-width:100px;
+  height:3vh;
+  border-radius: 10px;
+  text-align: center;
+}
+.tech-conatiner{
+  display: flex;
+  flex-direction: column;
+}
+.tools{
+  margin-bottom: 500px;
+}
